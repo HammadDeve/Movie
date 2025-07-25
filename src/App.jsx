@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import Search from './components/Search.jsx';
-import Spinner from './components/Spinner.jsx';
+import Spinner from './components/spinner.jsx';
 import MovieCard from './components/MovieCard.jsx';
 import MovieDetails from './components/MovieDetails.jsx';
 import { getMovies } from './services/movieService';
